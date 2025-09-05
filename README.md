@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastianVera29
 - 👀 I’m interested in Data Engineering and Analytics
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning Databricks
 - 💞️ I’m looking to collaborate on freelance projects
 - 📫 How to reach me (https://www.linkedin.com/in/sebastian-vera-rodriguez/)
 
